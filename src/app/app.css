@@ -1,0 +1,4 @@
+nav { display: flex; flex-wrap: wrap; gap: 1rem; padding: 0.8rem 1rem; background: #222; }
+nav a { color: #ddd; text-decoration: none; }
+nav a.active { color: #fff; font-weight: 700; border-bottom: 2px solid #e67e22; }
+main { max-width: 52rem; margin: 0 auto; padding: 1rem; font-family: system-ui, sans-serif; line-height: 1.5; }
